@@ -1,0 +1,1 @@
+"""LangChain skills for stock analysis workflow."""

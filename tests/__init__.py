@@ -1,0 +1,1 @@
+"""Tests for fin2605_analysis_agent."""
